@@ -1,1 +1,1 @@
-# Exploring
+Hello I am exploring git.
